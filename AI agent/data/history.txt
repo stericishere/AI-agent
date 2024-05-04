@@ -1,0 +1,12 @@
+Question: what's the name of our galaxy?
+Response: The name of our galaxy is the Milky Way.
+Question: can you save your response to my note?
+Response: Could you please specify the content of the response you would like me to save in your note?
+Question: can you tell me what's the context in history
+Response: Could you please specify which historical context or event you are referring to?
+Question: what's the nmae of our galaxy
+Response: The name of our galaxy is the Milky Way.
+Question: can you save it in notes
+Response: Could you please specify what content you would like me to save in the notes?
+Question: The name of our galaxy is the Milky Way.
+Response: Yes, that's correct! Our galaxy is indeed called the Milky Way.
